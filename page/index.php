@@ -5,6 +5,8 @@
 <title>Insert title here</title>
 </head>
 <body>
- 
+<?php
+ echo "hello robby";
+?>
 </body>
 </html>
