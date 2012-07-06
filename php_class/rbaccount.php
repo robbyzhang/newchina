@@ -40,13 +40,13 @@ else {
 }
  */
  
-
+/*
 
 if(nc_verify_account("robby", "1234"))
 	echo "verfiy robby success\r\n";
 else
   
 	echo "verify robby failed\r\n";
-  
+*/
   
 ?>
