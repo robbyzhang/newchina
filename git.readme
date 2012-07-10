@@ -1,0 +1,25 @@
+robby
+
+ Set up git
+  git config --global user.name "Your Name"
+  git config --global user.email icw_zy@163.com
+      
+
+Next steps:
+
+  mkdir trainning_docs
+  cd trainning_docs
+  git init
+  touch README
+  git add README
+  git commit -m 'first commit'
+  git remote add origin https://github.com/robbyzhang/trainning_docs.git
+  git push -u origin master
+      
+
+Existing Git Repo?
+
+  cd existing_git_repo
+  git remote add origin https://github.com/robbyzhang/trainning_docs.git
+  git push -u origin master
+      
